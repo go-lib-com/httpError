@@ -1,3 +1,3 @@
-module github.com/JulioVecino/httpError
+module github.com/go-lib-com/httpError
 
 go 1.12
